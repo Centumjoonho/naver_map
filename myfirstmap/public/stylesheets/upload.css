@@ -32,16 +32,16 @@ li a:hover:not(.active) {
   background-color: #111;
 }
 /* #navbar {
-  height: 50px;
-  width: 100%;
-  background: #262626;
-  color: white;
-  font-weight: bolder;
-  font-size: 25px;
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-} */
+    height: 50px;
+    width: 100%;
+    background: #262626;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+  } */
 
 #infoBox {
   position: absolute;
